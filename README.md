@@ -3,6 +3,8 @@
 A simple, fully functional notes app built using React Native, Expo, Redux Toolkit, and TypeScript. This app allows users to create, view, edit, delete, pin/unpin notes, and toggle dark mode. Authentication is simulated using local Redux state.
 
 ---
+📱 [Download AAB for Android](https://github.com/Mjnm1128/react-native-notes-app/releases/tag/v1.0)
+
 
 ## ✨ Features
 
